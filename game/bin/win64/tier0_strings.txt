@@ -430,6 +430,7 @@ $xmm9
 ( %u: max procs %u, active proc %u, active mask 0x%llx )
 ( cubGap & 15 ) == 0
 (%d,%d)
+(-AVX512) 
 (Missing)
 (None)
 (Unaccounted)
@@ -774,7 +775,6 @@ $xmm9
 ;BIb?
 ;srv*http://symbols/windows
 <!-- kv3 encoding:%s:version{%s} format:%s:version{%s} -->\n
-<!-- schema 
 </link>
 </script>
 << NULL >>\n
@@ -7967,6 +7967,7 @@ modf
 moredetailed
 moveto
 multiplayer_break
+n<!-- schema 
 nBits != 32
 nInterruptability
 nMax

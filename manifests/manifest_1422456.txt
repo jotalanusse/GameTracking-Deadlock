@@ -1,10 +1,10 @@
 Content Manifest for Depot 1422456 
 
-Manifest ID / date     : 2939123716983788394 / 11/06/2026 00:43:33 
+Manifest ID / date     : 3164984248281119043 / 11/09/2026 18:17:05 
 Total number of files  : 3703 
-Total number of chunks : 39422 
-Total bytes on disk    : 37808079868 
-Total bytes compressed : 14617441424 
+Total number of chunks : 39416 
+Total bytes on disk    : 37800783437 
+Total bytes compressed : 14615523136 
 
 
           Size Chunks File SHA                                 Flags Name
@@ -354,7 +354,7 @@ Total bytes compressed : 14617441424
      114061636    117 ad3cec5beecb5faa45c6c81f0f3faea601b9f27c     0 game\citadel\pak01_149.vpk
      113645748    109 4f12f693c4e08c32185aa4d87824c84c0b2c0ab3     0 game\citadel\pak01_150.vpk
      112555312    117 3785431f0baf09a5159c4bca5740678aca7dfaf2     0 game\citadel\pak01_151.vpk
-     109577892    111 a383406dd88995325c83ef219c4927d397255132     0 game\citadel\pak01_152.vpk
+     101845057    102 11d5c292edf5cd5d92e7ab90a87d6c5d7c826623     0 game\citadel\pak01_152.vpk
      108278108    109 e2c52ec8f96cb2b4ac55f0186b2bda7785210d79     0 game\citadel\pak01_153.vpk
      105282436    107 6ccb44e5c30d5ff974eda9d339ddc035407ad44c     0 game\citadel\pak01_154.vpk
      104525380    106 fe3d7beba57f081cc0b0cb14b8b83f8c1bf3d8f3     0 game\citadel\pak01_155.vpk
@@ -521,15 +521,15 @@ Total bytes compressed : 14617441424
      101118516    101 35f725176f27b1b69b1e44ae2b4aee300df280bb     0 game\citadel\pak01_316.vpk
      101738005    105 a5468f5fa353fa0c7b6fe1dc9e55d88fe4bc9bb2     0 game\citadel\pak01_317.vpk
      104096901    111 fbcd888961e8e36a80d20253b7d9d6ba0804a3d4     0 game\citadel\pak01_318.vpk
-     104872254    105 05a945590b1d8063fc5031c5f41cda8f6e722aa2     0 game\citadel\pak01_319.vpk
+     119651081    120 f58ce7313970a8d40fe1048b56e375913e4aae8c     0 game\citadel\pak01_319.vpk
      105278388    103 e21c3c42826390c19a2bbb79158ef8a1f245a4bc     0 game\citadel\pak01_320.vpk
      104518288    110 0225e785c1be843949dc66e73ef62755a0c14f5a     0 game\citadel\pak01_321.vpk
      115598867    119 5c1bffe272bba1f4bac70b34ebc7e0bf143a442e     0 game\citadel\pak01_322.vpk
      103662977    106 c1adb603b50f68129b0ac05e259871875c382826     0 game\citadel\pak01_323.vpk
       87948472     99 c1e85c390d1cc432b7234f81251ca9f59fef0071     0 game\citadel\pak01_324.vpk
      119813257    121 6cabbb1caeeaac1b1126ec5fd61a4586a4ff9851     0 game\citadel\pak01_325.vpk
-     101845057    102 11d5c292edf5cd5d92e7ab90a87d6c5d7c826623     0 game\citadel\pak01_326.vpk
-       8428834      9 9731c34a09ed56cf0eb3ab0e35ee0784253d1573     0 game\citadel\pak01_dir.vpk
+      87480253     90 65330036371d6600d8d17485fb12088cd9cebaa6     0 game\citadel\pak01_326.vpk
+       8428638      9 d0483c3988cba429680a08632dd08e7c0c44b477     0 game\citadel\pak01_dir.vpk
         984468      1 eabb3b6215b44274ce41ed101118d89e0f364db8     0 game\citadel\panorama\fonts\blackhansans-regular.ttf
        1532864      2 448b10312c10d9ec7526de3629d9d5a0fb76aec0     0 game\citadel\panorama\fonts\hahmlet-extrabold.ttf
        1536896      2 327714d102626ae01249faf3b2fb3fa4d085e218     0 game\citadel\panorama\fonts\hahmlet-medium.ttf
@@ -656,7 +656,7 @@ Total bytes compressed : 14617441424
          16295      1 4475200d508c638170c4f101749963e7e8d87b88     0 game\citadel\resource\localization\citadel_gc\citadel_gc_indonesian.txt
          16847      1 87b2931b63926f7b2c9bcb92b2863defe2a3c26b     0 game\citadel\resource\localization\citadel_gc\citadel_gc_italian.txt
          19386      1 c3ad4a6e9a7f634eb1183652ce41317bd242248b     0 game\citadel\resource\localization\citadel_gc\citadel_gc_japanese.txt
-         16799      1 847b35251a4dbe2d6254c9f80cb558f06280117d     0 game\citadel\resource\localization\citadel_gc\citadel_gc_koreana.txt
+         16799      1 e52bd9bd1efeceae7e23f427bd690892e6a1df31     0 game\citadel\resource\localization\citadel_gc\citadel_gc_koreana.txt
          16743      1 b282f93bf34385289c2c2ba18bb55ad48dac52e0     0 game\citadel\resource\localization\citadel_gc\citadel_gc_latam.txt
             62      1 a93c85b248c75640ab813b3a99fc5c79111e9cf5     0 game\citadel\resource\localization\citadel_gc\citadel_gc_norwegian.txt
          16660      1 6dc81f8ef3d4f391e5af60a0773de4299fa443e3     0 game\citadel\resource\localization\citadel_gc\citadel_gc_polish.txt
@@ -769,25 +769,25 @@ Total bytes compressed : 14617441424
         503427      1 601a5f3547bb711e887995a058a521030aef1188     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_german.txt
             58      1 ba5fe58f0096c647a26051f2972ab24515659c2b     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_greek.txt
             62      1 218248d85853eb6d1df03b8159c0cd06f2963204     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_hungarian.txt
-        476562      1 3921b71ccd3c454ddbe77894228b49f24082bf5d     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_indonesian.txt
-        488244      1 2ae20a0daa1cf5c5e6a858216b4c7dbad1e82c61     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_italian.txt
-        509118      1 13d5fe7f82ada863611ac3bfc0bd42ec16d65206     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_japanese.txt
+        477723      1 84bde986f81e3cfa789cb9829b2ac32fb4523e5d     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_indonesian.txt
+        488938      1 cb3bcdbc29c63783d69eb4f3924aaac0451c76dc     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_italian.txt
+        510321      1 6fe42c3ca3524fe0a7890d824323d86901799fa7     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_japanese.txt
         499355      1 8450801f31d8692451ce9d60bac6c9ac327b2ede     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_koreana.txt
         495205      1 9043636c710fbfbe4563ab5ae412b3cc4bbea81d     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_latam.txt
             62      1 a93c85b248c75640ab813b3a99fc5c79111e9cf5     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_norwegian.txt
-        497397      1 7d995bc3b1bd12cd5e286c1c51ff43850e77c6e4     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_polish.txt
+        497532      1 50049ab206f911b918586a9839b4c1b9c1fd4df9     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_polish.txt
             63      1 3b2dd4a3c6dbf7fa34e74189310c75d808c7421b     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_portuguese.txt
             61      1 39c1bc4359e02134ef111a8e625bbf90bf061275     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_romanian.txt
-        620426      1 3c12614c158166e3b4c79b541415f48910045fbe     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_russian.txt
+        622063      1 8b15b12e67fabf5d2c3482493378e3a20f5b76d7     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_russian.txt
         452690      1 98ff3ea82bb36dfb244b0fd484cdc44302024479     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_schinese.txt
         493711      1 ed84b5639d32bd72b8a96ea7b14714e53690081b     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_spanish.txt
             60      1 f209674f7cfdcc5d19b645d0bec804fffd6dd7c5     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_swedish.txt
             61      1 b72d684728f8229ae50abea6d17f639ad8e7e784     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_tchinese.txt
         732390      1 6455aec02351f6c6696aee1edad7a3c928cbbf15     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_thai.txt
         486117      1 8322fb71055702b8a2a11952d9e78662ef1f4785     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_turkish.txt
-        595530      1 9914978cf3cc94765e34989484253ed247144488     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_ukrainian.txt
+        596953      1 b71d0b9676c0473c949adcc8543c53739caf8153     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_ukrainian.txt
             60      1 89c85e6787dd54b324029f7af8678fc0f3eb3d3f     0 game\citadel\resource\localization\citadel_heroes\citadel_heroes_vietnamese.txt
-        448817      1 fc7cb60963c531b61accc2dd11bb4c1c9cee2729     0 game\citadel\resource\localization\citadel_main\citadel_main_brazilian.txt
+        448872      1 af3b3817759e6f72e164d735630a12656163eb8f     0 game\citadel\resource\localization\citadel_main\citadel_main_brazilian.txt
             62      1 1bd2e5279d94c22e9560a5efd0e571c7cf6f634c     0 game\citadel\resource\localization\citadel_main\citadel_main_bulgarian.txt
         468127      1 4666c44b809895949259ca111eff30f8f91e2ff1     0 game\citadel\resource\localization\citadel_main\citadel_main_czech.txt
             59      1 a71e1e8cc2282fc4b58ca77b21167c3e4eb1e58b     0 game\citadel\resource\localization\citadel_main\citadel_main_danish.txt
@@ -798,23 +798,23 @@ Total bytes compressed : 14617441424
         469264      1 c8c14e762f1e2315ba5f8d41df4cfbc15766f0f2     0 game\citadel\resource\localization\citadel_main\citadel_main_german.txt
             58      1 ba5fe58f0096c647a26051f2972ab24515659c2b     0 game\citadel\resource\localization\citadel_main\citadel_main_greek.txt
             62      1 218248d85853eb6d1df03b8159c0cd06f2963204     0 game\citadel\resource\localization\citadel_main\citadel_main_hungarian.txt
-        433588      1 cbeb01f338e0cb263ae12b1152becbb7cbf28f91     0 game\citadel\resource\localization\citadel_main\citadel_main_indonesian.txt
-        456664      1 6c784fbbee3e04b751a909006799f21b7614de1b     0 game\citadel\resource\localization\citadel_main\citadel_main_italian.txt
-        494431      1 563d15dd174bcb48fde958921177b50803ac905f     0 game\citadel\resource\localization\citadel_main\citadel_main_japanese.txt
-        459359      1 430bc3fec0316cb31ee25255d6941363875a0459     0 game\citadel\resource\localization\citadel_main\citadel_main_koreana.txt
-        462159      1 46845ab2344290c853e2d41ee8ce9966f7150687     0 game\citadel\resource\localization\citadel_main\citadel_main_latam.txt
+        434493      1 709434871a985746ae4fc2f49f4cf5d9badbaf69     0 game\citadel\resource\localization\citadel_main\citadel_main_indonesian.txt
+        456718      1 eb91c1740525026f6910d9344c366d61343bda80     0 game\citadel\resource\localization\citadel_main\citadel_main_italian.txt
+        498277      1 304a0b1ba5acdcf3bbce4c309e66377ef9e377e7     0 game\citadel\resource\localization\citadel_main\citadel_main_japanese.txt
+        460271      1 e1af289b6eab08e9c43d160680f708ccc933eb84     0 game\citadel\resource\localization\citadel_main\citadel_main_koreana.txt
+        462214      1 2baf5328581cc162becf3d11377ae81c7c7e478e     0 game\citadel\resource\localization\citadel_main\citadel_main_latam.txt
             62      1 a93c85b248c75640ab813b3a99fc5c79111e9cf5     0 game\citadel\resource\localization\citadel_main\citadel_main_norwegian.txt
-        458236      1 46d6e13d2fc315d0da39c117b9da36330440ed98     0 game\citadel\resource\localization\citadel_main\citadel_main_polish.txt
+        460592      1 ec004d38c5f60a6b8b2adc6c735d439207613359     0 game\citadel\resource\localization\citadel_main\citadel_main_polish.txt
             63      1 3b2dd4a3c6dbf7fa34e74189310c75d808c7421b     0 game\citadel\resource\localization\citadel_main\citadel_main_portuguese.txt
             61      1 39c1bc4359e02134ef111a8e625bbf90bf061275     0 game\citadel\resource\localization\citadel_main\citadel_main_romanian.txt
-        572304      1 1955407a7ad6cfa3ae272f140c36087e10f312fe     0 game\citadel\resource\localization\citadel_main\citadel_main_russian.txt
-        407602      1 c2e481a0526b152f999e611cb2e3d7bdcb5811fa     0 game\citadel\resource\localization\citadel_main\citadel_main_schinese.txt
-        462805      1 a1056b087517e0111d001702a92075da0bd73d5f     0 game\citadel\resource\localization\citadel_main\citadel_main_spanish.txt
+        577744      1 a3497cef34545f8dde7361b9f1263c14a26640fe     0 game\citadel\resource\localization\citadel_main\citadel_main_russian.txt
+        408247      1 9a7b548dde0110491df6bf27b2669c5bc4841558     0 game\citadel\resource\localization\citadel_main\citadel_main_schinese.txt
+        463025      1 9f9e67deb645a09858ab9e86f89adcf0a8507d25     0 game\citadel\resource\localization\citadel_main\citadel_main_spanish.txt
             60      1 f209674f7cfdcc5d19b645d0bec804fffd6dd7c5     0 game\citadel\resource\localization\citadel_main\citadel_main_swedish.txt
             61      1 b72d684728f8229ae50abea6d17f639ad8e7e784     0 game\citadel\resource\localization\citadel_main\citadel_main_tchinese.txt
-        692378      1 8f89eb649f68a359e99e9b51b104249792023f83     0 game\citadel\resource\localization\citadel_main\citadel_main_thai.txt
-        449383      1 e44b89c9a1ff7e6d95a6de2e07cf46b9bbcea767     0 game\citadel\resource\localization\citadel_main\citadel_main_turkish.txt
-        584484      1 c0b57026b179604304d93c24f30ed429b0cc642d     0 game\citadel\resource\localization\citadel_main\citadel_main_ukrainian.txt
+        692442      1 5eb53bba88c400cb129624252a66fc930c9c9c43     0 game\citadel\resource\localization\citadel_main\citadel_main_thai.txt
+        450116      1 58a52cd456c4d7e5043b2c9fa7a9a35fba834f6a     0 game\citadel\resource\localization\citadel_main\citadel_main_turkish.txt
+        585523      1 0692c57b554b8ca9f6caa4f805c98cf3a38027af     0 game\citadel\resource\localization\citadel_main\citadel_main_ukrainian.txt
             60      1 89c85e6787dd54b324029f7af8678fc0f3eb3d3f     0 game\citadel\resource\localization\citadel_main\citadel_main_vietnamese.txt
          73884      1 810d30869723e3ac1d5e4b2e5af64e082d752c0e     0 game\citadel\resource\localization\citadel_mods\citadel_mods_brazilian.txt
             62      1 1bd2e5279d94c22e9560a5efd0e571c7cf6f634c     0 game\citadel\resource\localization\citadel_mods\citadel_mods_bulgarian.txt
@@ -933,7 +933,7 @@ Total bytes compressed : 14617441424
           9905      1 3c8a07b1b92847766d7a272d72328942028057c6     0 game\citadel\resource\localization\citadel_vdata\accolades\accolades_ukrainian.txt
             28      1 5163095f42901979ed79287d14fc043e1da71488     0 game\citadel\resource\localization\citadel_vdata\accolades\accolades_vietnamese.txt
            440      1 87eaafd6d4f6ed95230a501720e85580440a2701     0 game\citadel\resource\steam_rich_presence.txt
-           185      1 97935c84674e1a732b6d882a6382f1762372ec9a     0 game\citadel\steam.inf
+           185      1 bf24add6aacbc1d279b550b88bb83b119678c394     0 game\citadel\steam.inf
            208      1 a2f3ee9b9d2e082c56a350c742a1dfdd2fec5386     0 game\citadel_brazilian\gameinfo.gi
            200      1 4a3b9d6839c218aaa59019caf32b9d6f9a4666f9     0 game\citadel_czech\gameinfo.gi
            202      1 aaeac0789b786b888516bac591adfe958c2c9de8     0 game\citadel_french\gameinfo.gi

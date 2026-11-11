@@ -42440,7 +42440,7 @@ panorama/styles/hero_testing/triggered_panel.vcss_c CRC:0081fc4876 size:1873
 panorama/styles/hero_testing_menu.vcss_c CRC:0043b1c789 size:31193
 panorama/styles/hideout/hideout_in_world_ranked.vcss_c CRC:004ebe8fb2 size:37511
 panorama/styles/hideout_in_world_text_label.vcss_c CRC:00b088ea3d size:1737
-panorama/styles/hud.vcss_c CRC:000fdf3dfe size:119847
+panorama/styles/hud.vcss_c CRC:0090baa2a4 size:119842
 panorama/styles/hud_abilities.vcss_c CRC:009f3f4056 size:36417
 panorama/styles/hud_ability_icon.vcss_c CRC:0034b5482c size:60207
 panorama/styles/hud_ability_icon_active.vcss_c CRC:008165a833 size:29499
